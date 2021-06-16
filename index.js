@@ -1,5 +1,5 @@
 console.log('Làm bài tập');
 
-function functionMain() {
-    console.log('doneBaiTapBuoi1');
+function functionMain(){
+    console.log('doneBaiTapBuoi2');
 }
